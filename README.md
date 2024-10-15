@@ -1,3 +1,3 @@
 # Ruby and Rails SOLID
 
-Capturing thoughts and examples of single responsibility in Ruby and Rails
+Capturing thoughts and examples of SOLID code in Ruby and Rails
